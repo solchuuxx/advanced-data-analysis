@@ -1,0 +1,1001 @@
+id,employee_id,department,performance_score,years_with_company,salary
+1,1,Information Technology,85.17,11,8412.66
+2,2,Marketing,76.75,4,4402.98
+3,3,Sales,17.09,8,3987.86
+4,4,Finance,70.96,3,4008.42
+5,5,Human Resources,80.15,19,9018.23
+6,6,Marketing,67.48,12,5324.73
+7,7,Operations,44.23,7,2731.98
+8,8,Legal,7.93,19,3974.58
+9,9,Finance,33.97,4,5560.18
+10,10,Research and Development,39.49,10,5011.47
+11,11,Legal,97.47,15,9653.44
+12,12,Finance,71.69,1,8325.35
+13,13,Operations,70.97,19,7931.19
+14,14,Human Resources,60.26,5,9376.62
+15,15,Operations,87.65,4,3984.1
+16,16,Information Technology,96.58,11,2047.4
+17,17,Purchasing,31.92,2,175.5
+18,18,Research and Development,12.44,4,8553.65
+19,19,Marketing,97.01,3,9794.79
+20,20,Operations,7.44,4,3225.76
+21,21,Information Technology,90.29,16,2783.36
+22,22,Finance,62.61,6,9764.79
+23,23,Research and Development,74.01,9,4750.97
+24,24,Operations,38.61,16,364.0
+25,25,Operations,87.69,20,7305.82
+26,26,Finance,25.15,9,809.5
+27,27,Research and Development,67.78,13,4436.02
+28,28,Research and Development,69.83,15,1749.61
+29,29,Operations,21.46,9,7023.39
+30,30,Legal,42.34,11,4893.2
+31,31,Legal,15.69,6,3798.13
+32,32,Legal,52.05,20,6074.8
+33,33,Legal,13.67,1,2147.09
+34,34,Human Resources,72.15,17,3290.29
+35,35,Sales,3.18,12,267.86
+36,36,Operations,83.35,7,4322.09
+37,37,Legal,30.98,7,1287.86
+38,38,Human Resources,75.6,11,8228.1
+39,39,Operations,84.9,20,6183.46
+40,40,Research and Development,77.08,4,4482.51
+41,41,Marketing,17.46,5,2357.5
+42,42,Human Resources,96.76,13,503.67
+43,43,Marketing,10.66,2,5412.49
+44,44,Research and Development,51.11,10,2971.12
+45,45,Information Technology,81.73,9,8013.71
+46,46,Sales,20.19,13,5917.93
+47,47,Legal,77.65,11,4618.32
+48,48,Legal,42.13,2,7550.78
+49,49,Purchasing,69.9,12,836.46
+50,50,Operations,59.59,8,1766.13
+51,51,Information Technology,73.6,14,8793.21
+52,52,Human Resources,99.78,3,456.94
+53,53,Marketing,71.39,9,8556.95
+54,54,Human Resources,81.46,7,3005.9
+55,55,Marketing,83.21,19,9522.76
+56,56,Legal,17.1,4,4995.89
+57,57,Marketing,88.83,19,500.97
+58,58,Finance,88.65,8,3458.12
+59,59,Information Technology,47.69,7,3402.0
+60,60,Legal,61.26,17,3702.94
+61,61,Finance,36.46,17,4405.36
+62,62,Operations,95.53,2,3233.71
+63,63,Legal,97.0,14,6931.28
+64,64,Purchasing,81.7,7,374.69
+65,65,Sales,36.68,18,5653.41
+66,66,Legal,57.32,18,360.88
+67,67,Purchasing,61.98,8,4990.83
+68,68,Purchasing,89.7,2,7048.37
+69,69,Legal,29.44,15,4750.52
+70,70,Finance,61.4,1,8779.86
+71,71,Research and Development,23.01,16,2035.63
+72,72,Purchasing,48.08,18,545.35
+73,73,Operations,31.13,20,4784.59
+74,74,Information Technology,42.76,13,5600.31
+75,75,Sales,90.58,13,5895.32
+76,76,Legal,64.11,18,6914.8
+77,77,Human Resources,80.6,17,1660.62
+78,78,Human Resources,18.97,11,3371.19
+79,79,Human Resources,1.08,10,9284.54
+80,80,Marketing,27.78,20,5837.92
+81,81,Operations,59.86,15,7602.23
+82,82,Legal,42.0,14,9937.85
+83,83,Operations,15.38,18,4420.86
+84,84,Sales,25.16,17,428.45
+85,85,Operations,61.11,5,9917.81
+86,86,Legal,24.53,6,256.6
+87,87,Sales,81.64,8,1166.96
+88,88,Sales,21.03,1,2747.62
+89,89,Sales,88.38,1,8332.29
+90,90,Sales,9.06,18,5186.48
+91,91,Purchasing,87.64,8,6456.67
+92,92,Operations,60.2,20,5303.61
+93,93,Legal,75.91,17,7118.82
+94,94,Research and Development,40.29,2,4868.35
+95,95,Finance,65.11,15,3636.85
+96,96,Finance,4.59,19,5122.95
+97,97,Sales,99.83,14,3463.93
+98,98,Purchasing,11.63,15,870.74
+99,99,Sales,20.69,9,8538.92
+100,100,Finance,26.73,5,2084.73
+101,101,Marketing,92.12,19,2368.0
+102,102,Purchasing,56.32,19,2706.59
+103,103,Finance,58.36,3,9752.63
+104,104,Finance,79.61,20,670.61
+105,105,Sales,79.46,10,1772.68
+106,106,Purchasing,86.25,1,7304.33
+107,107,Operations,9.19,20,9347.71
+108,108,Purchasing,37.19,10,9773.88
+109,109,Finance,28.55,11,8538.21
+110,110,Information Technology,9.85,6,6382.48
+111,111,Marketing,37.65,14,195.48
+112,112,Sales,8.92,1,7129.33
+113,113,Finance,44.81,12,7400.82
+114,114,Information Technology,28.9,17,8933.48
+115,115,Marketing,22.82,1,132.58
+116,116,Sales,93.01,13,7901.27
+117,117,Research and Development,72.35,16,4686.18
+118,118,Finance,80.87,19,3092.96
+119,119,Research and Development,94.49,3,5099.51
+120,120,Human Resources,86.99,1,1392.07
+121,121,Sales,20.2,5,987.13
+122,122,Operations,5.73,20,2060.47
+123,123,Purchasing,94.91,8,9690.72
+124,124,Information Technology,38.15,6,9031.24
+125,125,Information Technology,53.68,18,3242.58
+126,126,Operations,38.03,17,2098.99
+127,127,Purchasing,60.66,4,1132.3
+128,128,Sales,83.15,3,3062.59
+129,129,Legal,9.27,8,8280.15
+130,130,Information Technology,18.49,16,1873.91
+131,131,Operations,30.34,15,4921.73
+132,132,Finance,37.63,4,4181.88
+133,133,Legal,7.38,16,1219.45
+134,134,Research and Development,57.36,7,1564.41
+135,135,Human Resources,32.04,15,5480.58
+136,136,Finance,30.21,12,6542.3
+137,137,Operations,29.75,19,6283.31
+138,138,Legal,88.6,7,1085.06
+139,139,Legal,91.09,1,7099.8
+140,140,Marketing,33.01,8,9723.48
+141,141,Operations,36.01,6,2685.62
+142,142,Research and Development,15.06,7,9364.21
+143,143,Research and Development,37.15,3,8383.79
+144,144,Marketing,37.18,1,8974.52
+145,145,Legal,63.3,20,8989.61
+146,146,Research and Development,51.24,3,5485.02
+147,147,Sales,33.89,14,9716.76
+148,148,Marketing,73.75,17,5743.75
+149,149,Purchasing,91.27,10,8911.61
+150,150,Sales,51.29,2,2232.92
+151,151,Legal,40.4,20,7756.34
+152,152,Human Resources,26.87,17,8634.03
+153,153,Marketing,77.04,13,5369.52
+154,154,Information Technology,43.97,8,8945.26
+155,155,Information Technology,16.3,4,9874.2
+156,156,Research and Development,12.47,15,7870.43
+157,157,Sales,60.54,16,8207.11
+158,158,Sales,68.06,13,8228.07
+159,159,Human Resources,46.85,5,9580.59
+160,160,Purchasing,70.5,2,2609.16
+161,161,Finance,59.43,10,6913.13
+162,162,Marketing,26.27,16,103.64
+163,163,Research and Development,12.0,1,7395.26
+164,164,Marketing,65.99,1,6888.83
+165,165,Sales,2.67,11,3036.96
+166,166,Legal,42.49,14,6058.71
+167,167,Finance,70.19,3,9128.14
+168,168,Operations,11.06,7,3982.94
+169,169,Finance,43.68,10,1487.56
+170,170,Finance,15.13,1,8780.47
+171,171,Information Technology,24.96,6,2267.34
+172,172,Human Resources,65.63,7,1522.92
+173,173,Legal,5.21,15,5914.11
+174,174,Sales,56.63,3,8585.23
+175,175,Operations,96.52,9,9125.48
+176,176,Operations,3.48,7,9165.37
+177,177,Research and Development,70.11,3,8656.39
+178,178,Operations,9.55,4,9485.14
+179,179,Finance,17.55,20,6816.35
+180,180,Information Technology,20.48,12,5557.63
+181,181,Research and Development,41.86,4,5840.09
+182,182,Information Technology,25.24,3,2979.28
+183,183,Finance,19.72,4,3711.88
+184,184,Marketing,31.06,12,7088.62
+185,185,Operations,22.81,16,7035.97
+186,186,Sales,71.2,20,9862.1
+187,187,Operations,91.91,2,2758.41
+188,188,Purchasing,45.97,19,6682.77
+189,189,Purchasing,57.58,14,9408.3
+190,190,Research and Development,91.49,14,8748.61
+191,191,Marketing,79.17,19,8336.08
+192,192,Legal,15.2,1,870.72
+193,193,Research and Development,69.3,15,7624.26
+194,194,Information Technology,75.74,13,9787.63
+195,195,Information Technology,92.6,7,7073.15
+196,196,Legal,18.29,7,804.04
+197,197,Purchasing,7.1,7,7779.74
+198,198,Operations,56.84,19,3099.31
+199,199,Sales,16.7,13,1775.47
+200,200,Sales,20.14,5,5743.63
+201,201,Human Resources,63.96,10,5278.56
+202,202,Information Technology,85.1,11,8921.4
+203,203,Research and Development,41.89,8,9246.04
+204,204,Sales,93.47,8,6561.73
+205,205,Marketing,4.45,13,590.14
+206,206,Legal,66.77,14,9230.82
+207,207,Finance,27.07,16,2148.93
+208,208,Marketing,58.06,12,2758.49
+209,209,Sales,67.76,7,7009.99
+210,210,Human Resources,59.51,6,4759.16
+211,211,Operations,37.73,4,8370.4
+212,212,Purchasing,61.08,18,2258.05
+213,213,Purchasing,49.35,3,4433.14
+214,214,Purchasing,18.98,6,1838.44
+215,215,Sales,95.7,8,8857.19
+216,216,Legal,19.57,19,7216.59
+217,217,Marketing,32.43,16,3587.79
+218,218,Legal,20.48,6,5681.5
+219,219,Marketing,22.5,2,9050.52
+220,220,Finance,69.94,18,3208.28
+221,221,Research and Development,59.9,11,4396.84
+222,222,Operations,61.37,2,738.53
+223,223,Operations,40.35,14,7176.97
+224,224,Legal,56.2,11,9007.47
+225,225,Finance,96.98,2,4319.57
+226,226,Operations,78.13,8,5518.43
+227,227,Information Technology,12.42,12,1377.57
+228,228,Purchasing,4.48,20,4620.62
+229,229,Information Technology,87.53,9,9242.76
+230,230,Human Resources,76.94,5,6300.47
+231,231,Human Resources,69.24,12,3832.83
+232,232,Legal,75.0,20,4665.12
+233,233,Human Resources,57.69,19,7482.24
+234,234,Purchasing,79.9,6,8919.45
+235,235,Marketing,8.7,9,7610.73
+236,236,Research and Development,89.07,14,5327.92
+237,237,Information Technology,46.99,10,8372.92
+238,238,Information Technology,45.84,18,9327.5
+239,239,Information Technology,88.0,5,6161.8
+240,240,Operations,77.76,3,825.54
+241,241,Marketing,59.95,17,112.3
+242,242,Human Resources,22.61,13,3238.64
+243,243,Sales,1.38,6,8868.53
+244,244,Research and Development,34.87,5,1069.26
+245,245,Research and Development,14.39,5,677.06
+246,246,Purchasing,7.22,11,7694.64
+247,247,Finance,66.79,17,8299.31
+248,248,Human Resources,54.27,18,7421.0
+249,249,Research and Development,77.83,12,2251.33
+250,250,Human Resources,46.5,4,5384.97
+251,251,Operations,13.77,10,697.83
+252,252,Sales,12.33,20,8885.91
+253,253,Information Technology,58.34,3,1349.94
+254,254,Marketing,59.93,16,2226.52
+255,255,Sales,49.55,18,6905.0
+256,256,Sales,36.85,18,6560.05
+257,257,Finance,78.22,7,7859.65
+258,258,Human Resources,12.6,14,4750.28
+259,259,Operations,41.07,1,2786.47
+260,260,Operations,45.21,15,9430.54
+261,261,Sales,37.55,15,5072.48
+262,262,Purchasing,59.96,18,2773.32
+263,263,Finance,50.91,19,204.05
+264,264,Finance,46.54,19,208.86
+265,265,Human Resources,26.26,10,4982.06
+266,266,Finance,43.09,1,6233.25
+267,267,Marketing,31.13,13,5408.26
+268,268,Marketing,7.22,19,1508.31
+269,269,Finance,70.98,5,6396.69
+270,270,Legal,32.36,3,8082.34
+271,271,Operations,75.14,17,1542.62
+272,272,Human Resources,18.74,3,2159.13
+273,273,Human Resources,42.45,7,5090.55
+274,274,Finance,16.26,13,1666.6
+275,275,Legal,47.3,1,6254.85
+276,276,Information Technology,25.36,19,4582.92
+277,277,Purchasing,70.84,17,2639.85
+278,278,Sales,76.51,5,9156.53
+279,279,Operations,2.16,7,8196.88
+280,280,Research and Development,85.02,11,2508.9
+281,281,Marketing,74.06,2,2398.92
+282,282,Operations,6.92,4,5393.75
+283,283,Operations,15.02,14,9226.25
+284,284,Information Technology,27.45,13,4526.15
+285,285,Finance,10.68,19,5393.51
+286,286,Human Resources,83.08,20,4500.7
+287,287,Finance,2.34,16,735.17
+288,288,Information Technology,72.63,11,9255.68
+289,289,Finance,48.05,4,8217.65
+290,290,Research and Development,28.02,14,2824.19
+291,291,Human Resources,72.84,6,6564.48
+292,292,Finance,98.13,12,9878.52
+293,293,Research and Development,54.96,7,2502.03
+294,294,Finance,2.95,9,5000.46
+295,295,Finance,47.14,13,4011.32
+296,296,Information Technology,11.78,16,9322.98
+297,297,Marketing,61.36,16,385.03
+298,298,Human Resources,9.23,4,8969.95
+299,299,Purchasing,96.82,20,1252.54
+300,300,Human Resources,68.71,1,721.63
+301,301,Information Technology,4.94,3,7779.75
+302,302,Human Resources,62.7,16,5665.57
+303,303,Information Technology,52.07,14,4559.34
+304,304,Finance,91.27,7,3675.4
+305,305,Finance,91.74,19,3073.68
+306,306,Research and Development,32.39,16,3217.85
+307,307,Purchasing,13.54,11,3068.95
+308,308,Purchasing,96.03,14,7480.47
+309,309,Legal,24.31,13,3838.69
+310,310,Purchasing,21.15,8,7287.22
+311,311,Information Technology,75.89,1,6590.58
+312,312,Legal,31.88,4,9777.7
+313,313,Legal,47.94,15,2533.5
+314,314,Finance,94.79,15,8695.68
+315,315,Research and Development,58.5,2,3801.09
+316,316,Research and Development,75.95,8,2069.08
+317,317,Information Technology,48.3,19,475.99
+318,318,Research and Development,95.48,11,4524.75
+319,319,Human Resources,71.73,14,4453.39
+320,320,Operations,92.15,9,6880.47
+321,321,Sales,61.03,12,5598.17
+322,322,Information Technology,48.97,12,8598.83
+323,323,Finance,8.91,11,1340.06
+324,324,Marketing,31.2,16,435.32
+325,325,Operations,77.78,1,725.29
+326,326,Sales,89.06,5,3830.83
+327,327,Information Technology,32.42,19,1090.84
+328,328,Marketing,26.68,5,8575.93
+329,329,Research and Development,46.35,2,6600.85
+330,330,Legal,85.83,11,6594.19
+331,331,Operations,74.22,5,2801.58
+332,332,Operations,26.95,15,9325.12
+333,333,Purchasing,48.81,6,3964.14
+334,334,Sales,16.6,2,4666.1
+335,335,Finance,55.46,13,2878.21
+336,336,Legal,18.5,17,7983.3
+337,337,Operations,22.51,3,8401.07
+338,338,Legal,64.28,2,9237.8
+339,339,Finance,48.43,14,5444.19
+340,340,Human Resources,50.7,10,1961.66
+341,341,Finance,43.21,1,7181.26
+342,342,Operations,3.27,14,3897.63
+343,343,Sales,41.7,19,8023.08
+344,344,Finance,36.14,11,272.81
+345,345,Operations,7.09,19,6977.43
+346,346,Information Technology,59.94,4,4364.4
+347,347,Human Resources,84.26,11,9715.81
+348,348,Operations,38.46,20,9574.4
+349,349,Purchasing,40.1,19,1923.14
+350,350,Information Technology,7.5,5,4204.62
+351,351,Sales,22.53,6,6762.88
+352,352,Human Resources,19.73,13,317.76
+353,353,Purchasing,29.06,15,1920.87
+354,354,Purchasing,35.72,20,9224.53
+355,355,Information Technology,41.94,7,8577.14
+356,356,Purchasing,45.46,10,5538.58
+357,357,Research and Development,65.44,4,7592.79
+358,358,Research and Development,91.99,15,9392.49
+359,359,Information Technology,33.49,2,119.96
+360,360,Finance,16.59,3,9019.72
+361,361,Sales,69.46,16,9366.04
+362,362,Marketing,61.0,17,716.25
+363,363,Marketing,61.19,18,143.47
+364,364,Research and Development,53.83,5,273.79
+365,365,Finance,97.75,14,2616.26
+366,366,Finance,39.76,2,4611.83
+367,367,Human Resources,78.32,18,4015.21
+368,368,Research and Development,78.64,14,6404.33
+369,369,Information Technology,60.96,4,517.34
+370,370,Purchasing,62.99,11,9042.95
+371,371,Human Resources,5.44,4,9885.48
+372,372,Operations,9.08,11,2028.1
+373,373,Marketing,33.2,2,9564.47
+374,374,Finance,61.99,20,258.47
+375,375,Information Technology,28.96,20,4577.23
+376,376,Human Resources,74.72,16,2209.57
+377,377,Sales,17.36,13,2073.81
+378,378,Information Technology,8.18,17,6367.34
+379,379,Marketing,87.09,5,9137.95
+380,380,Legal,22.18,3,7698.61
+381,381,Information Technology,55.63,9,8119.79
+382,382,Finance,26.66,1,6916.01
+383,383,Human Resources,84.5,20,9847.98
+384,384,Finance,97.67,10,9649.9
+385,385,Purchasing,96.3,18,2336.22
+386,386,Research and Development,75.97,12,9266.67
+387,387,Information Technology,85.48,6,2603.8
+388,388,Sales,86.66,4,6052.68
+389,389,Information Technology,23.2,13,6861.93
+390,390,Research and Development,30.13,1,1130.57
+391,391,Purchasing,14.37,8,9045.22
+392,392,Finance,98.8,20,9600.02
+393,393,Human Resources,55.83,11,2059.58
+394,394,Sales,91.16,12,2998.27
+395,395,Sales,39.27,18,9430.73
+396,396,Operations,56.51,19,9595.71
+397,397,Operations,72.7,6,9123.18
+398,398,Operations,43.25,1,1930.35
+399,399,Information Technology,86.02,2,7245.27
+400,400,Finance,96.9,10,7927.28
+401,401,Sales,50.43,11,2519.6
+402,402,Human Resources,77.31,10,9935.56
+403,403,Operations,70.76,8,1402.68
+404,404,Legal,8.13,18,3410.41
+405,405,Human Resources,81.79,17,3233.2
+406,406,Sales,12.84,13,5467.52
+407,407,Purchasing,61.95,10,2230.23
+408,408,Legal,14.97,14,5222.1
+409,409,Human Resources,75.09,7,4617.92
+410,410,Marketing,58.56,20,6569.54
+411,411,Sales,64.83,10,1603.33
+412,412,Operations,11.6,4,4572.13
+413,413,Research and Development,71.92,13,3684.63
+414,414,Human Resources,26.5,18,6840.53
+415,415,Legal,64.73,20,625.51
+416,416,Purchasing,70.76,7,9398.19
+417,417,Information Technology,32.89,7,6509.33
+418,418,Human Resources,39.7,1,6559.54
+419,419,Legal,49.8,18,1901.61
+420,420,Legal,93.57,9,2864.09
+421,421,Legal,97.08,13,4457.86
+422,422,Purchasing,21.93,4,1699.87
+423,423,Purchasing,1.93,11,6890.03
+424,424,Sales,93.5,13,7721.57
+425,425,Finance,67.4,12,720.46
+426,426,Sales,80.53,20,5088.46
+427,427,Human Resources,81.5,16,6435.59
+428,428,Operations,26.3,4,4728.51
+429,429,Information Technology,30.38,9,9102.88
+430,430,Operations,70.42,5,3376.88
+431,431,Sales,81.45,14,3436.48
+432,432,Information Technology,38.12,1,9809.69
+433,433,Human Resources,56.15,16,6961.35
+434,434,Operations,36.62,6,8490.55
+435,435,Information Technology,35.91,17,4981.6
+436,436,Operations,38.36,7,4146.63
+437,437,Operations,60.26,6,1502.15
+438,438,Sales,6.2,13,8576.22
+439,439,Information Technology,13.89,10,9038.5
+440,440,Research and Development,88.2,17,9256.79
+441,441,Finance,54.2,14,9129.48
+442,442,Information Technology,9.22,20,369.28
+443,443,Operations,17.74,5,4441.89
+444,444,Sales,34.01,13,5329.76
+445,445,Information Technology,33.2,18,2121.46
+446,446,Operations,27.89,19,2669.28
+447,447,Legal,85.33,6,8798.22
+448,448,Human Resources,75.84,3,9215.17
+449,449,Information Technology,67.65,19,5546.95
+450,450,Marketing,96.83,19,4593.34
+451,451,Operations,33.65,4,8904.71
+452,452,Human Resources,50.36,12,1582.04
+453,453,Operations,11.3,18,8040.74
+454,454,Information Technology,41.14,8,1706.03
+455,455,Finance,20.23,1,5257.27
+456,456,Sales,91.67,9,8412.67
+457,457,Legal,75.3,7,8479.6
+458,458,Operations,91.24,19,1890.69
+459,459,Purchasing,67.1,14,870.2
+460,460,Sales,46.07,19,5496.17
+461,461,Research and Development,79.67,19,5319.02
+462,462,Purchasing,70.94,7,8281.71
+463,463,Information Technology,98.98,17,4249.32
+464,464,Operations,37.0,8,3521.03
+465,465,Finance,61.22,17,2699.81
+466,466,Purchasing,18.11,8,6372.1
+467,467,Legal,60.59,9,4810.4
+468,468,Purchasing,13.75,6,8554.12
+469,469,Finance,15.31,11,1098.43
+470,470,Operations,89.93,7,6990.97
+471,471,Legal,64.34,3,5569.82
+472,472,Finance,8.51,3,9777.1
+473,473,Legal,30.0,13,6744.66
+474,474,Information Technology,97.61,15,3745.15
+475,475,Operations,59.31,18,6636.89
+476,476,Purchasing,46.14,4,2966.77
+477,477,Research and Development,81.67,3,3627.98
+478,478,Finance,11.19,16,4003.62
+479,479,Finance,76.4,15,5831.96
+480,480,Purchasing,83.82,18,8699.16
+481,481,Research and Development,95.66,16,6595.56
+482,482,Sales,25.75,3,3945.08
+483,483,Operations,57.86,19,4653.02
+484,484,Finance,28.75,4,4494.31
+485,485,Finance,1.19,3,1405.32
+486,486,Finance,94.47,6,5146.72
+487,487,Finance,85.94,3,6276.69
+488,488,Purchasing,11.3,12,4768.78
+489,489,Marketing,59.59,14,2627.07
+490,490,Sales,46.8,2,8328.0
+491,491,Sales,73.36,16,815.1
+492,492,Sales,45.57,15,2821.77
+493,493,Operations,17.04,20,5404.26
+494,494,Human Resources,83.04,10,7590.12
+495,495,Research and Development,51.28,5,650.91
+496,496,Legal,85.77,18,8219.67
+497,497,Human Resources,62.1,8,4489.91
+498,498,Information Technology,79.34,10,2320.52
+499,499,Marketing,44.07,5,1532.08
+500,500,Operations,3.69,8,4942.92
+501,501,Legal,61.83,5,6829.67
+502,502,Human Resources,95.56,3,7576.12
+503,503,Human Resources,99.72,3,4018.89
+504,504,Legal,21.7,7,3690.68
+505,505,Operations,56.77,4,7308.87
+506,506,Human Resources,95.06,5,3593.04
+507,507,Finance,75.16,19,9243.11
+508,508,Purchasing,78.76,8,2350.59
+509,509,Marketing,91.79,6,9102.27
+510,510,Purchasing,20.95,20,2451.11
+511,511,Information Technology,53.87,20,4021.27
+512,512,Finance,47.76,4,1451.88
+513,513,Legal,75.62,8,6464.49
+514,514,Human Resources,25.41,19,5809.85
+515,515,Sales,33.33,3,7257.68
+516,516,Information Technology,12.89,15,288.54
+517,517,Information Technology,10.92,5,4870.11
+518,518,Research and Development,30.24,8,4074.5
+519,519,Research and Development,47.28,15,7429.56
+520,520,Human Resources,69.76,1,2941.89
+521,521,Finance,67.72,11,9456.37
+522,522,Marketing,83.22,19,2062.28
+523,523,Finance,71.26,2,9778.7
+524,524,Marketing,62.94,16,1555.08
+525,525,Sales,23.93,8,7690.52
+526,526,Operations,81.81,8,1513.41
+527,527,Research and Development,55.49,5,3588.35
+528,528,Marketing,72.95,20,9049.35
+529,529,Sales,56.62,7,4525.26
+530,530,Information Technology,61.36,10,4406.91
+531,531,Purchasing,39.0,13,134.38
+532,532,Legal,7.95,6,9309.79
+533,533,Human Resources,20.97,2,1572.36
+534,534,Purchasing,48.6,3,8536.81
+535,535,Purchasing,78.71,2,1914.15
+536,536,Sales,22.07,3,6559.43
+537,537,Sales,39.15,9,3346.81
+538,538,Human Resources,47.61,6,5568.65
+539,539,Information Technology,40.8,6,7144.94
+540,540,Research and Development,10.1,4,9993.18
+541,541,Marketing,42.08,8,1178.1
+542,542,Operations,83.64,13,1856.19
+543,543,Marketing,34.77,9,616.59
+544,544,Research and Development,27.98,20,545.98
+545,545,Finance,66.28,15,4686.78
+546,546,Sales,40.9,9,4736.43
+547,547,Information Technology,96.39,20,1324.88
+548,548,Sales,29.37,3,5698.89
+549,549,Operations,7.65,4,884.26
+550,550,Legal,82.44,14,4920.3
+551,551,Purchasing,10.25,5,6006.89
+552,552,Information Technology,69.3,3,7095.98
+553,553,Sales,81.6,11,8476.34
+554,554,Purchasing,50.93,20,1132.39
+555,555,Purchasing,48.51,15,7386.38
+556,556,Finance,13.73,19,6370.43
+557,557,Human Resources,20.5,6,4004.13
+558,558,Information Technology,97.9,3,2349.64
+559,559,Legal,21.4,20,6139.46
+560,560,Legal,67.47,14,6059.32
+561,561,Finance,59.34,3,819.51
+562,562,Legal,74.73,17,8100.85
+563,563,Human Resources,83.58,19,5566.33
+564,564,Sales,41.08,8,5334.74
+565,565,Legal,87.87,1,7040.91
+566,566,Operations,48.91,13,4142.39
+567,567,Purchasing,25.13,17,363.73
+568,568,Research and Development,6.07,10,8711.42
+569,569,Sales,32.94,6,9124.51
+570,570,Human Resources,22.65,2,9188.51
+571,571,Finance,6.88,2,3539.83
+572,572,Human Resources,92.84,16,3873.22
+573,573,Marketing,89.67,16,4394.1
+574,574,Information Technology,12.35,1,6285.53
+575,575,Legal,83.5,13,9704.71
+576,576,Information Technology,11.06,19,4017.96
+577,577,Sales,26.2,7,2074.08
+578,578,Research and Development,74.51,17,5414.01
+579,579,Purchasing,82.2,5,6983.48
+580,580,Human Resources,72.3,9,9584.39
+581,581,Human Resources,12.92,16,7969.64
+582,582,Information Technology,21.65,10,9058.75
+583,583,Sales,53.58,3,8553.37
+584,584,Marketing,38.96,2,9473.27
+585,585,Sales,58.71,10,6354.52
+586,586,Marketing,79.39,12,9093.62
+587,587,Information Technology,55.91,3,3807.59
+588,588,Research and Development,24.09,5,5846.33
+589,589,Marketing,93.86,20,1594.18
+590,590,Finance,82.54,4,4624.7
+591,591,Operations,5.94,4,2894.94
+592,592,Legal,91.63,2,9819.91
+593,593,Marketing,70.91,19,4391.0
+594,594,Legal,67.28,1,7481.0
+595,595,Operations,44.3,16,539.79
+596,596,Finance,13.05,18,3524.0
+597,597,Sales,89.79,16,4862.6
+598,598,Human Resources,13.01,17,5806.48
+599,599,Finance,10.66,1,4530.56
+600,600,Operations,44.5,5,748.22
+601,601,Purchasing,25.71,18,3767.53
+602,602,Human Resources,61.33,12,368.82
+603,603,Sales,48.8,4,6371.9
+604,604,Operations,87.21,11,8623.02
+605,605,Human Resources,85.07,15,8208.14
+606,606,Operations,24.26,1,2765.1
+607,607,Operations,52.14,3,728.01
+608,608,Human Resources,32.39,3,3274.38
+609,609,Research and Development,24.42,14,1093.89
+610,610,Marketing,86.04,16,803.66
+611,611,Purchasing,9.3,19,6540.89
+612,612,Research and Development,65.44,10,6138.91
+613,613,Marketing,61.05,20,4534.46
+614,614,Marketing,91.19,8,1959.77
+615,615,Marketing,66.95,18,1067.72
+616,616,Operations,86.67,13,138.06
+617,617,Finance,47.15,6,6215.11
+618,618,Operations,29.73,8,4663.36
+619,619,Finance,86.76,3,5776.06
+620,620,Purchasing,55.53,5,2724.76
+621,621,Legal,13.66,7,9023.45
+622,622,Information Technology,81.63,11,5175.33
+623,623,Information Technology,27.46,9,8864.39
+624,624,Purchasing,32.96,4,1656.53
+625,625,Operations,25.06,11,6138.77
+626,626,Research and Development,41.36,3,7322.03
+627,627,Information Technology,17.14,5,4636.79
+628,628,Human Resources,70.32,11,2712.7
+629,629,Human Resources,11.75,14,1286.67
+630,630,Finance,68.45,3,853.47
+631,631,Marketing,27.29,16,5531.56
+632,632,Sales,8.08,12,3020.57
+633,633,Sales,87.84,8,3719.38
+634,634,Marketing,80.98,11,4536.71
+635,635,Purchasing,71.36,14,4309.96
+636,636,Information Technology,57.36,12,3057.99
+637,637,Purchasing,16.05,12,9729.28
+638,638,Sales,93.36,13,8586.72
+639,639,Research and Development,90.16,14,8992.28
+640,640,Research and Development,37.54,8,8182.0
+641,641,Marketing,53.03,19,9610.39
+642,642,Finance,6.88,8,7500.45
+643,643,Legal,24.45,1,8986.09
+644,644,Operations,29.67,8,2231.35
+645,645,Legal,78.3,13,2820.8
+646,646,Information Technology,8.32,19,3891.82
+647,647,Legal,90.21,13,6729.06
+648,648,Information Technology,77.94,7,2487.1
+649,649,Operations,84.17,15,5261.12
+650,650,Research and Development,65.48,16,7659.61
+651,651,Operations,52.03,8,7573.41
+652,652,Human Resources,1.34,12,8778.71
+653,653,Sales,91.58,10,9154.12
+654,654,Finance,42.61,5,3196.03
+655,655,Information Technology,52.63,9,3645.24
+656,656,Purchasing,96.24,16,8132.01
+657,657,Research and Development,24.17,4,8005.5
+658,658,Human Resources,81.34,3,2951.06
+659,659,Marketing,99.82,14,396.91
+660,660,Marketing,79.39,18,4083.55
+661,661,Information Technology,49.57,12,8447.0
+662,662,Information Technology,37.18,20,5719.19
+663,663,Marketing,97.64,6,9657.09
+664,664,Information Technology,73.3,16,4627.8
+665,665,Legal,20.44,7,8018.92
+666,666,Operations,66.49,19,4859.1
+667,667,Human Resources,8.22,3,4464.17
+668,668,Finance,87.97,19,6810.22
+669,669,Sales,5.39,8,2568.79
+670,670,Marketing,13.29,2,8778.22
+671,671,Marketing,17.56,2,4903.48
+672,672,Research and Development,4.31,13,5689.17
+673,673,Marketing,60.87,20,5141.12
+674,674,Sales,45.39,15,3118.53
+675,675,Research and Development,24.84,11,9720.22
+676,676,Human Resources,18.28,2,3079.92
+677,677,Purchasing,46.11,7,1907.95
+678,678,Sales,76.67,2,9005.4
+679,679,Operations,37.51,17,2114.46
+680,680,Operations,45.12,20,8942.12
+681,681,Research and Development,76.42,3,5600.73
+682,682,Research and Development,67.52,17,1483.44
+683,683,Operations,74.43,16,3040.46
+684,684,Purchasing,29.07,15,4423.22
+685,685,Sales,97.12,3,3104.63
+686,686,Sales,94.7,15,8717.16
+687,687,Legal,84.65,3,5210.6
+688,688,Information Technology,87.72,18,2117.9
+689,689,Human Resources,35.52,4,3563.42
+690,690,Human Resources,4.17,9,8970.6
+691,691,Research and Development,70.47,12,6864.93
+692,692,Legal,12.87,1,1468.6
+693,693,Operations,89.04,18,2631.2
+694,694,Legal,38.14,8,1548.87
+695,695,Marketing,45.3,18,3420.29
+696,696,Sales,77.1,5,1383.2
+697,697,Research and Development,8.07,13,3839.85
+698,698,Operations,57.65,19,9802.13
+699,699,Sales,13.42,2,4000.89
+700,700,Human Resources,30.3,15,1501.14
+701,701,Research and Development,82.3,20,6983.45
+702,702,Research and Development,48.25,6,9166.0
+703,703,Sales,69.23,11,1579.42
+704,704,Operations,30.64,11,4310.28
+705,705,Finance,29.64,17,9125.22
+706,706,Operations,3.0,15,3181.15
+707,707,Information Technology,35.41,7,8187.44
+708,708,Research and Development,56.05,6,9645.12
+709,709,Information Technology,14.87,5,9154.1
+710,710,Legal,13.19,9,2784.09
+711,711,Information Technology,72.95,14,3902.29
+712,712,Finance,45.88,4,2239.84
+713,713,Human Resources,13.37,13,3375.67
+714,714,Legal,70.46,14,8531.89
+715,715,Information Technology,68.44,3,2801.04
+716,716,Marketing,45.69,2,6291.18
+717,717,Operations,47.51,13,1620.37
+718,718,Operations,64.06,12,1396.62
+719,719,Operations,19.98,18,7704.85
+720,720,Operations,98.56,9,5736.93
+721,721,Operations,97.88,14,6772.71
+722,722,Finance,4.83,10,5317.43
+723,723,Human Resources,18.83,9,4266.47
+724,724,Legal,79.78,2,9101.74
+725,725,Legal,61.49,2,4692.19
+726,726,Sales,28.45,18,8129.78
+727,727,Research and Development,38.02,4,2564.67
+728,728,Human Resources,2.02,17,478.39
+729,729,Research and Development,21.17,16,6723.54
+730,730,Human Resources,55.28,6,9518.62
+731,731,Research and Development,32.57,8,1917.72
+732,732,Operations,5.12,3,1887.46
+733,733,Purchasing,64.88,17,3408.72
+734,734,Research and Development,89.45,5,7956.92
+735,735,Legal,95.99,4,6684.95
+736,736,Marketing,79.08,11,3477.93
+737,737,Sales,88.42,19,8163.6
+738,738,Human Resources,53.59,4,3752.86
+739,739,Research and Development,19.02,1,2556.61
+740,740,Marketing,43.18,14,1029.22
+741,741,Purchasing,14.93,12,742.12
+742,742,Human Resources,75.14,6,4172.07
+743,743,Information Technology,61.82,8,5073.55
+744,744,Sales,81.24,19,6347.92
+745,745,Human Resources,92.17,1,6324.77
+746,746,Marketing,66.12,14,5581.69
+747,747,Information Technology,10.57,8,9277.31
+748,748,Sales,93.18,6,4808.83
+749,749,Legal,63.92,19,4215.77
+750,750,Sales,39.63,19,6547.64
+751,751,Sales,88.96,11,694.38
+752,752,Marketing,53.89,12,8031.31
+753,753,Information Technology,96.75,16,4380.74
+754,754,Information Technology,94.9,16,5269.76
+755,755,Information Technology,31.51,8,7932.95
+756,756,Information Technology,33.28,7,1422.98
+757,757,Purchasing,60.14,20,5778.94
+758,758,Human Resources,99.21,3,515.96
+759,759,Marketing,78.6,18,8502.47
+760,760,Operations,55.46,19,7862.68
+761,761,Purchasing,48.23,15,2966.26
+762,762,Marketing,52.66,14,500.31
+763,763,Operations,34.39,7,2045.02
+764,764,Information Technology,98.66,5,618.7
+765,765,Operations,80.31,19,3713.28
+766,766,Sales,33.73,17,2594.43
+767,767,Information Technology,79.28,14,4756.03
+768,768,Legal,17.37,3,1557.78
+769,769,Information Technology,63.3,12,9875.28
+770,770,Human Resources,60.88,6,6319.12
+771,771,Operations,68.94,10,6196.02
+772,772,Sales,10.12,16,8314.62
+773,773,Legal,59.08,2,3227.17
+774,774,Finance,85.99,15,2995.85
+775,775,Finance,97.27,2,8899.53
+776,776,Research and Development,47.28,5,5541.2
+777,777,Human Resources,31.12,6,2481.43
+778,778,Human Resources,32.73,4,3981.81
+779,779,Operations,21.23,8,607.53
+780,780,Finance,62.38,6,7934.62
+781,781,Sales,70.65,11,1801.67
+782,782,Sales,12.04,1,7280.11
+783,783,Marketing,28.74,20,3962.39
+784,784,Purchasing,66.62,4,193.96
+785,785,Marketing,81.81,19,4500.37
+786,786,Purchasing,83.16,15,579.52
+787,787,Legal,32.56,8,5844.57
+788,788,Legal,40.12,17,6391.25
+789,789,Sales,95.04,3,1695.56
+790,790,Operations,22.07,13,2282.66
+791,791,Finance,50.35,13,1804.77
+792,792,Operations,22.75,9,6680.59
+793,793,Operations,36.97,6,3277.67
+794,794,Finance,53.78,15,4894.99
+795,795,Finance,89.46,11,6435.77
+796,796,Purchasing,40.93,6,1480.09
+797,797,Human Resources,67.79,18,4647.3
+798,798,Legal,79.67,3,8489.0
+799,799,Marketing,94.62,8,1365.86
+800,800,Marketing,72.86,2,3995.96
+801,801,Finance,24.68,20,4040.23
+802,802,Purchasing,53.73,10,6176.93
+803,803,Operations,58.17,7,3378.25
+804,804,Operations,70.04,12,9524.84
+805,805,Human Resources,55.62,12,9198.31
+806,806,Finance,91.32,2,6693.3
+807,807,Legal,84.52,3,9886.86
+808,808,Marketing,23.01,4,1419.57
+809,809,Operations,39.48,3,3712.97
+810,810,Finance,17.47,19,3627.33
+811,811,Purchasing,95.46,13,8477.29
+812,812,Operations,40.03,8,6492.21
+813,813,Research and Development,78.08,14,3355.23
+814,814,Human Resources,50.71,14,2956.11
+815,815,Operations,41.67,12,9015.37
+816,816,Information Technology,70.08,5,6702.91
+817,817,Research and Development,54.46,11,7629.57
+818,818,Marketing,23.15,18,4373.87
+819,819,Research and Development,49.01,9,5917.73
+820,820,Research and Development,15.73,4,4626.25
+821,821,Legal,46.86,15,7307.87
+822,822,Finance,42.37,1,7400.18
+823,823,Finance,84.08,18,4297.88
+824,824,Human Resources,5.66,7,4019.05
+825,825,Operations,26.1,2,2720.7
+826,826,Finance,38.15,6,8944.19
+827,827,Legal,92.03,1,6953.49
+828,828,Finance,65.8,1,863.58
+829,829,Finance,87.26,13,7812.02
+830,830,Sales,95.07,5,3664.51
+831,831,Operations,76.73,14,9956.54
+832,832,Research and Development,63.61,17,6645.12
+833,833,Legal,55.86,20,364.75
+834,834,Purchasing,90.79,5,840.88
+835,835,Finance,95.49,3,7189.83
+836,836,Finance,64.57,3,7696.13
+837,837,Information Technology,64.25,10,2566.54
+838,838,Marketing,67.48,1,515.07
+839,839,Operations,27.09,19,563.74
+840,840,Research and Development,58.98,16,1007.58
+841,841,Research and Development,75.02,16,2495.84
+842,842,Purchasing,25.5,19,2921.74
+843,843,Finance,40.16,15,9339.58
+844,844,Marketing,66.36,5,1849.12
+845,845,Finance,53.38,2,1119.01
+846,846,Information Technology,63.01,20,2859.9
+847,847,Research and Development,45.25,4,476.42
+848,848,Research and Development,65.92,12,6788.11
+849,849,Human Resources,21.95,9,1594.97
+850,850,Human Resources,93.26,3,5898.94
+851,851,Human Resources,54.46,13,4786.45
+852,852,Human Resources,68.41,15,2471.31
+853,853,Marketing,67.09,16,5158.88
+854,854,Human Resources,96.75,6,1472.47
+855,855,Marketing,71.85,4,9832.9
+856,856,Purchasing,77.51,4,7746.79
+857,857,Operations,46.42,19,5095.27
+858,858,Sales,38.05,20,8714.04
+859,859,Research and Development,40.58,8,7476.48
+860,860,Operations,78.4,9,2786.97
+861,861,Finance,14.56,7,7675.87
+862,862,Finance,46.88,2,3364.02
+863,863,Purchasing,68.78,19,6613.82
+864,864,Research and Development,30.69,12,750.0
+865,865,Research and Development,53.42,9,9454.13
+866,866,Research and Development,57.22,16,8712.73
+867,867,Human Resources,46.28,6,2412.08
+868,868,Marketing,42.76,5,9758.09
+869,869,Marketing,36.05,20,3857.55
+870,870,Legal,90.59,7,6174.24
+871,871,Operations,53.43,10,6162.6
+872,872,Research and Development,30.47,5,2641.08
+873,873,Legal,2.89,1,5589.76
+874,874,Information Technology,93.23,20,8622.58
+875,875,Legal,42.07,12,9447.73
+876,876,Marketing,50.33,14,9659.39
+877,877,Legal,34.48,6,9448.94
+878,878,Sales,52.67,8,3686.41
+879,879,Operations,44.24,3,2959.73
+880,880,Finance,18.59,18,7943.15
+881,881,Sales,79.35,12,740.26
+882,882,Research and Development,70.38,3,4488.19
+883,883,Research and Development,76.95,4,2501.92
+884,884,Sales,94.8,11,9526.05
+885,885,Operations,87.6,12,5480.58
+886,886,Legal,55.94,2,9485.59
+887,887,Sales,63.33,13,3983.97
+888,888,Sales,61.22,1,689.08
+889,889,Finance,85.91,17,1226.91
+890,890,Legal,58.61,17,9260.2
+891,891,Purchasing,74.21,11,1589.16
+892,892,Sales,53.73,9,8688.58
+893,893,Operations,58.1,11,9304.56
+894,894,Sales,60.59,2,8575.51
+895,895,Purchasing,20.76,20,1126.5
+896,896,Finance,8.55,18,1536.46
+897,897,Operations,31.06,12,7360.4
+898,898,Research and Development,63.04,5,1076.91
+899,899,Research and Development,46.81,5,6423.27
+900,900,Operations,24.72,5,9982.62
+901,901,Information Technology,16.86,8,6564.47
+902,902,Marketing,25.67,9,3266.78
+903,903,Information Technology,47.45,10,9092.41
+904,904,Operations,27.15,3,7624.09
+905,905,Research and Development,23.13,5,7600.58
+906,906,Sales,61.39,18,785.89
+907,907,Research and Development,65.13,18,4265.94
+908,908,Finance,83.91,4,2145.64
+909,909,Purchasing,12.88,8,5414.49
+910,910,Legal,74.82,3,3722.41
+911,911,Sales,61.04,20,788.08
+912,912,Finance,82.95,4,8306.6
+913,913,Finance,4.05,20,3219.03
+914,914,Human Resources,56.87,14,6092.71
+915,915,Information Technology,48.8,1,416.47
+916,916,Purchasing,52.22,20,1742.06
+917,917,Legal,38.99,4,9115.73
+918,918,Marketing,20.73,4,2523.69
+919,919,Research and Development,97.43,14,7992.68
+920,920,Human Resources,63.3,16,6062.01
+921,921,Purchasing,59.8,18,2318.37
+922,922,Marketing,74.19,5,5091.06
+923,923,Sales,41.7,6,4290.57
+924,924,Research and Development,98.87,8,7972.1
+925,925,Human Resources,82.6,6,1511.9
+926,926,Legal,50.97,6,5087.22
+927,927,Purchasing,34.69,13,6743.25
+928,928,Purchasing,29.16,8,9650.98
+929,929,Sales,33.86,12,981.23
+930,930,Finance,54.9,2,6176.58
+931,931,Operations,3.64,15,7893.86
+932,932,Legal,38.59,2,5033.12
+933,933,Information Technology,38.93,8,6242.16
+934,934,Human Resources,7.94,4,7320.74
+935,935,Operations,4.44,4,1279.87
+936,936,Purchasing,58.01,20,377.71
+937,937,Operations,3.4,7,9078.13
+938,938,Sales,15.17,13,1986.72
+939,939,Marketing,31.08,3,9781.53
+940,940,Operations,55.98,9,8503.76
+941,941,Finance,8.66,1,3837.15
+942,942,Sales,51.39,3,3926.74
+943,943,Operations,74.39,8,9718.03
+944,944,Research and Development,8.65,14,4389.92
+945,945,Finance,47.58,13,2656.26
+946,946,Research and Development,6.56,9,7142.6
+947,947,Human Resources,80.34,1,1461.58
+948,948,Legal,25.73,1,306.37
+949,949,Finance,10.17,11,9688.35
+950,950,Sales,21.88,13,8991.37
+951,951,Sales,99.61,16,7575.63
+952,952,Information Technology,61.96,16,7877.57
+953,953,Research and Development,50.54,8,6646.78
+954,954,Marketing,88.72,9,5727.23
+955,955,Sales,32.02,17,4504.24
+956,956,Legal,86.64,3,8521.1
+957,957,Finance,22.33,8,7722.54
+958,958,Legal,56.38,19,7826.14
+959,959,Sales,45.45,19,6303.25
+960,960,Information Technology,34.37,10,4069.32
+961,961,Marketing,70.71,14,8294.36
+962,962,Operations,36.39,6,422.86
+963,963,Human Resources,76.27,3,6167.97
+964,964,Research and Development,25.01,5,8675.82
+965,965,Operations,47.07,2,3378.91
+966,966,Operations,27.77,13,4619.56
+967,967,Marketing,34.18,6,8147.64
+968,968,Marketing,63.32,13,317.49
+969,969,Human Resources,4.9,13,6998.77
+970,970,Marketing,70.55,17,5549.77
+971,971,Operations,12.76,20,5465.71
+972,972,Purchasing,38.37,7,9788.92
+973,973,Sales,71.04,20,3681.94
+974,974,Information Technology,20.46,6,9343.07
+975,975,Information Technology,28.39,12,3501.65
+976,976,Information Technology,90.75,11,1875.08
+977,977,Sales,87.42,11,8132.29
+978,978,Human Resources,98.93,6,9232.34
+979,979,Sales,57.86,10,153.59
+980,980,Information Technology,75.58,7,3299.49
+981,981,Research and Development,93.54,17,1699.77
+982,982,Finance,89.09,3,2775.11
+983,983,Research and Development,50.61,5,4976.86
+984,984,Human Resources,13.01,7,3876.02
+985,985,Purchasing,72.56,5,9994.47
+986,986,Research and Development,15.07,6,8394.86
+987,987,Operations,7.16,8,4671.48
+988,988,Legal,52.67,16,8584.9
+989,989,Information Technology,3.93,14,5422.6
+990,990,Legal,82.17,9,6471.61
+991,991,Research and Development,52.72,4,5183.26
+992,992,Information Technology,72.76,8,9983.02
+993,993,Research and Development,56.75,17,4828.05
+994,994,Legal,24.64,19,2457.05
+995,995,Legal,27.04,15,9985.84
+996,996,Finance,96.25,16,8281.6
+997,997,Marketing,99.23,16,1099.67
+998,998,Purchasing,4.87,6,764.93
+999,999,Purchasing,14.31,1,2134.76
+1000,1000,Marketing,57.3,8,8118.57
