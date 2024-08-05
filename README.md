@@ -5,7 +5,8 @@ Desarrollar un script en Python que permita realizar operaciones de análisis de
 
 ## Desarrollo
 
-### 1. Crear, Configurar y Activar un Entorno Virtual
+1. Crear, Configurar y Activar un Entorno Virtual
+
 Para mantener las dependencias del proyecto aisladas, se recomienda crear y activar un entorno virtual.
 
 ```sh
@@ -14,6 +15,7 @@ source venv/bin/activate  # En Windows: venv\Scripts\activate
 ```
 
 2. Instalar Dependencias
+
 Instalar las siguientes dependencias necesarias para el proyecto:
 
 ```sh
@@ -24,6 +26,7 @@ pip install numpy
 ```
 
 3. Crear y Configurar la Base de Datos
+
 Ejecutar el siguiente script para establecer la conexión con la base de datos:
 
 ```sh
@@ -31,6 +34,7 @@ py ./database/connectordb.py
 ```
 
 4. Crear la Base de Datos y Poblar Datos
+
 Crear una base de datos llamada “CompanyData” y ejecutar los siguientes scripts para crear las tablas necesarias y poblarlas con datos:
 
 ```sh
@@ -39,6 +43,7 @@ py ./database/populatedb.py
 ```
 
 5. Ejecutar el Script Principal
+
 Por último, ejecutar el archivo main.py para leer y visualizar los datos estadísticos de los empleados:
 
 ```sh
